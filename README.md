@@ -11,7 +11,7 @@ This repository contains a weekly training program designed to build essential D
 ## Tools Used
 - Python 3.10+
 - Jupyter Notebook
-- pandas, seaborn, matplotlib, numpy
+- pandas, seaborn, matplotlib, numpy, sklearn
 
 ## About Me
 Jason Huang | Pre-Master Weekly Practice | April 2025
