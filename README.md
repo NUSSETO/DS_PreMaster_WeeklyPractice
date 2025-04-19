@@ -1,6 +1,6 @@
 # Data Science Pre-Master Weekly Practice
 
-This repository contains a weekly training program designed to build essential DS skills prior to the MSc at NUS.
+This repository contains weekly projects I completed to strengthen my data science fundamentals.
 
 ## Weekly Project Index
 
@@ -9,10 +9,17 @@ This repository contains a weekly training program designed to build essential D
 
 
 ## Tools Used
+
 - Python 3.10+
 - Jupyter Notebook
 - pandas, seaborn, matplotlib, numpy, sklearn
+  
+## Notes
+
+- This archive reflects my learning process and may not represent polished or production-ready code.
+- The repository will be updated regularly as I continue to work on new projects.
 
 ## About me
+
 Jason Huang  
 BSc in Mathematics, NTNU 
