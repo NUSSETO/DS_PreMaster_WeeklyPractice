@@ -13,5 +13,6 @@ This repository contains a weekly training program designed to build essential D
 - Jupyter Notebook
 - pandas, seaborn, matplotlib, numpy, sklearn
 
-## About Me
-Jason Huang | Pre-Master Weekly Practice | April 2025
+## About me
+Jason Huang  
+BSc in Mathematics, NTNU 
