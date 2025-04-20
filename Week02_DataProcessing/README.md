@@ -1,15 +1,15 @@
-# Data Processing and Integration
+# Week 02 – Structured Data and Modeling Practice
 
-This repository contains some key data processing techniques.
+This project focuses on practicing fundamental data processing techniques using small structured datasets.
 
-## Contents
-- Practice basic EDA on structured data
-- Identify overlap and separation between classes
-- Visualize distributions and outliers using matplotlib and seaborn
-- Practical integration of small datasets
+## Objectives
 
-## How to Use
-You can open the `.ipynb` files in GitHub or the `.pdf` files directly to review the analysis step-by-step.
+- Explore and compare patterns across different groups.
+- Combine and clean structured datasets.
+- Build simple models and evaluate their performance.
+- Apply basic statistical analysis to interpret data relationships.
 
-## About Me
-Jason Huang | Pre-Master Survival Series | April 2025
+## Notes
+
+- This project reflects my learning process and may not represent polished or production-ready code.
+- The analysis includes basic modeling steps to support data exploration and evaluation.
