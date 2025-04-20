@@ -2,7 +2,7 @@
 
 This repository contains weekly projects I completed to strengthen my data science fundamentals.
 
-## Weekly Project Index
+## Weekly Project
 
 - [Week01_Titanic](./Week01_Titanic) : Exploratory Data Analysis on simplified Titanic dataset.
 - [Week02_DataProcessing](./Week02_DataProcessing) : Grouping, merging, and combining small datasets.
