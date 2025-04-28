@@ -5,8 +5,8 @@ This repository contains weekly projects I completed to strengthen my data scien
 ## Weekly Project
 
 - [Week01_Titanic](./Week01_Titanic) : Exploratory Data Analysis on simplified Titanic dataset.
-- [Week02_DataProcessing](./Week02_DataProcessing) : Practice with structured data, grouping, and simple modeling.
-- [Week03_ML Fundamentals](./Week03_ML Fundamentals) : Practice with structured data, grouping, and simple modeling.
+- [Week02_Data_Processing](./Week02_Data_Processing) : Practice with structured data, grouping, and simple modeling.
+- [Week03_ML Fundamentals](./Week03_ML_Fundamentals) : Practice with structured data, grouping, and simple modeling.
 
 
 ## Tools Used
