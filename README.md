@@ -9,13 +9,14 @@ This repository contains weekly projects I completed to strengthen my data scien
 - [Week03_ML_Fundamentals](./Week03_ML_Fundamentals) : Practicing regression models, decision trees, and model evaluation.
 - [Week04_Data_Exploration](./Week04_Data_Exploration) : Practicing EDA using World Bank SDG data.
 - [Week05_SQL_Basics](./Week05_SQL_Basics) : Practicing SQL fundamentals using Mode Analytics.
-- [Week06_R_Basics](./Week06_R_Basics) : Learning R syntax, data frames, and basic data analysis.
+- [Week06_R_Basics](./Week06_R_Basics) : Practicing data transformation and visualization using tidyverse in R
 
 ## Tools Used
 
 - Python, SQL, R
 - Jupyter Notebook, Mode
 - pandas, seaborn, matplotlib, numpy, sklearn
+- tidyverse
   
 ## Notes
 
