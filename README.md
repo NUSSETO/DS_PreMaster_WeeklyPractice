@@ -10,6 +10,8 @@ This repository contains weekly projects I completed to strengthen my data scien
 - [Week04_Data_Exploration](./Week04_Data_Exploration) : Practicing EDA using World Bank SDG data.
 - [Week05_SQL_Basics](./Week05_SQL_Basics) : Practicing SQL fundamentals using Mode Analytics.
 - [Week06_R_Basics](./Week06_R_Basics) : Practicing data transformation and visualization using tidyverse in R
+- [Week07_SDGs_Basics](./Week07_SDGs_Basics) : Exploring SDG indicators and building a mini project on India's energy trends.
+
 
 ## Tools Used
 
