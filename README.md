@@ -17,7 +17,7 @@ This repository contains weekly projects I completed to strengthen my data scien
 
 - Python, SQL, R
 - Jupyter Notebook, Mode
-- pandas, seaborn, matplotlib, numpy, sklearn
+- pandas, seaborn, matplotlib, numpy, sklearn, SciPy
 - tidyverse
   
 ## Notes
