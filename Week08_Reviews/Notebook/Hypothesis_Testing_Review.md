@@ -25,3 +25,25 @@ P-values only tell if there is any differnece, not how much.
 Getting a small P-values (suggesting we should reject null hypothesis) when null hypothesis is true is called **False Positive** or **Type I error**.
 
 Getting a huge P-values (suggesting we fail to reject null hypothesis) when null hypothesis is false is called **False Negative** ot **Type II error**.
+
+---
+
+# T-Test : Setosa vs Versicolor Petal Length
+
+### T Test:
+Assuming X and Y are independent and normally distributed with a common variance, t-test helps us to determine whether X and Y have the same means.
+
+### Hypotheses:
+- **Null Hypothesis (H₀):** There is no difference in petal length between Setosa and Versicolor.
+- **Alternative Hypothesis (H₁):** There is a difference in petal length between Setosa and Versicolor.
+
+### Test Results:
+- **T-statistic:** -39.493
+- **P-value:** < 0.001
+
+### Interpretation:
+The p-value is extremely small (effectively 0), 
+which means the observed difference in petal length is **very unlikely** under the assumption of the null hypothesis.  
+Therefore, we **reject H₀** and conclude that **Setosa and Versicolor have different petal lengths**.
+
+The large value of the t-statistic also indicates that the difference between the group means is much larger than expected.
