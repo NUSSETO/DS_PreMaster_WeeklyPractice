@@ -1,3 +1,3 @@
 # Introduction
 
-## What does **Supervised** mean ?
+## What does "Supervised" mean ?
