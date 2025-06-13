@@ -12,7 +12,7 @@ This repository contains weekly projects I completed to strengthen my data scien
 - [Week06_R_Basics](./Week06_R_Basics) : Practicing data transformation and visualization using tidyverse in R
 - [Week07_SDGs_Basics](./Week07_SDGs_Basics) : Exploring SDG indicators and building a mini project on India's energy trends.
 - [Week08_Reviews](./Week08_Reviews) : Reviewing hypothesis testing, data cleaning, and transformation with Python.
-- [Week09_Supervised_ML](./Week09_Supervised_ML) : Practicing supervised learning with pipelines, model evaluation, and classification tasks.
+- [Week09_Supervised_ML](./Week09_Supervised_ML) : Practicing supervised learning model evaluation, and classification tasks.
 
 
 ## Tools Used
