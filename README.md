@@ -13,6 +13,7 @@ This repository contains weekly projects I completed to strengthen my data scien
 - [Week07_SDGs_Basics](./Week07_SDGs_Basics) : Exploring SDG indicators and building a mini project on India's energy trends.
 - [Week08_Reviews](./Week08_Reviews) : Reviewing hypothesis testing, data cleaning, and transformation with Python.
 - [Week09_Supervised_ML](./Week09_Supervised_ML) : Practicing supervised learning model evaluation, and classification tasks.
+- [Week10_More_Reviews](./Week10_More_Reviews) : Reviewing data wrangling and visualization techniques in Python and R.
 
 
 ## Tools Used
